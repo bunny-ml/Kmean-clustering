@@ -11,7 +11,7 @@ This project applies **K-Means Clustering** on customer transaction data to segm
 - **Duration**: 01-Dec-2009 to 09-Dec-2011
 - **Country**: Primarily United Kingdom with some international data.
 
-### 📊 Dataset Info
+## 📊 Dataset Info
 
 ```plaintext
 <class 'pandas.core.frame.DataFrame'>
