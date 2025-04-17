@@ -51,4 +51,4 @@ The following customer segments were identified using K-Means clustering based o
 
 Install the required libraries using:
 
-pip
+pip -r requirements.txt
